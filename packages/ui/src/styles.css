@@ -1,0 +1,49 @@
+.calqo-affiliate-card {
+  display: block;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 16px;
+  background: #fff;
+  font-family: inherit;
+  max-width: 100%;
+}
+.calqo-affiliate-card__partner {
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 4px;
+  color: #0f172a;
+}
+.calqo-affiliate-card__offer {
+  margin: 0 0 12px;
+  font-size: 0.95rem;
+  color: #334155;
+  line-height: 1.4;
+}
+.calqo-affiliate-card__cta {
+  display: inline-block;
+  background: #1d4ed8;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.calqo-affiliate-card__cta:hover,
+.calqo-affiliate-card__cta:focus {
+  background: #1e40af;
+}
+.calqo-affiliate-card__disclosure {
+  margin: 12px 0 0;
+  font-size: 0.75rem;
+  color: #64748b;
+  line-height: 1.4;
+}
+.calqo-affiliate-inline {
+  color: #1d4ed8;
+  text-decoration: underline;
+}
+.calqo-affiliate-inline:hover,
+.calqo-affiliate-inline:focus {
+  color: #1e40af;
+}
