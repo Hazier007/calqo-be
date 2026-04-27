@@ -1,5 +1,7 @@
 export { trackAffiliateClick } from "./trackAffiliateClick.js";
 export type { AffiliateNetwork, AffiliateClickPayload } from "./trackAffiliateClick.js";
+export { buildSubId } from "./buildSubId.js";
+export type { BuildSubIdInput } from "./buildSubId.js";
 export {
   BOL_PUBLISHER_ID,
   BOL_PARTNERS_BASE,
