@@ -3,7 +3,6 @@ export type { AffiliateNetwork, AffiliateClickPayload } from "./trackAffiliateCl
 export { buildSubId } from "./buildSubId.js";
 export type { BuildSubIdInput } from "./buildSubId.js";
 export {
-  BOL_PUBLISHER_ID,
   BOL_PARTNERS_BASE,
   BOL_SITE_CONFIGS,
   buildBolDeeplink,
